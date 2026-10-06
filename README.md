@@ -2,6 +2,8 @@
 
 **The first dedicated survey of Worldwide Image Geo-localization (WIGL)** — systematically organizing 30 representative methods into four paradigms (classification-based, retrieval-based, generation-based, and retrieval-augmented generation), with datasets, evaluation metrics, and benchmark results.
 
+**Authors:** Junchao Cui · Xiangyang Luo · Wenqi Shi · Xuanzi Ma · Nan Wu · Hangyu Li
+
 > **News**
 > - **2026.10.01** 🎉 Our survey was **accepted** by *Information Processing and Management* (IPM).
 > - **2026.05.26** 📄 Submitted to IPM.
@@ -150,7 +152,7 @@ If you find this survey useful, please cite:
 ```bibtex
 @article{cui2026tracing,
   title   = {Tracing Locations from Pixels: A Survey of Worldwide Image Geo-localization},
-  author  = {Cui, Junchao},  % TODO: complete the author list
+  author  = {Cui, Junchao and Luo, Xiangyang and Shi, Wenqi and Ma, Xuanzi and Wu, Nan and Li, Hangyu},
   journal = {Information Processing and Management},
   year    = {2026},
   note    = {Accepted}
